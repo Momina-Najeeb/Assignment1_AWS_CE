@@ -85,3 +85,11 @@ The system is designed using AWS cloud services to ensure scalability, availabil
 This project demonstrates a scalable and fault-tolerant cloud architecture using AWS services. The system efficiently handles traffic, ensures high availability, and follows cloud security best practices.
 
 ---
+
+## 💡 Key Learning
+
+This project helped in understanding real-world cloud deployment using AWS services including networking, load balancing, and secure application hosting.
+Regards
+Momina Najeeb
+
+---
