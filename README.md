@@ -89,7 +89,10 @@ This project demonstrates a scalable and fault-tolerant cloud architecture using
 ## 💡 Key Learning
 
 This project helped in understanding real-world cloud deployment using AWS services including networking, load balancing, and secure application hosting.
+
+##
 Regards
+
 Momina Najeeb
 
 ---
