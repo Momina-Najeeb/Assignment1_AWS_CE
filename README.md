@@ -49,7 +49,7 @@ The system is designed using AWS cloud services to ensure scalability, availabil
 ---
 
 ## 📸 Screenshots
-### Load Balancer
+### Load Balancer (Final Deployed App Website)
 
 ![Load Balancer](load_balancer.png)
 ![Load Balancer](load_balancer_2.png)
