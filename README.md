@@ -49,8 +49,22 @@ The system is designed using AWS cloud services to ensure scalability, availabil
 ---
 
 ## 📸 Screenshots
+### Load Balancer
 
-(Add your screenshots here in GitHub)
+![Load Balancer](load_balancer.png)
+![Load Balancer](load_balancer_2.png)
+
+
+### EC 2 Instance
+![EC2](ec2_instances.png)
+
+
+### Target Group
+![Target Group](target_group.png)
+
+
+### VPC Resource Map
+![VPC](vpc_resource_map.png)
 
 ---
 
